@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://github.com/yqtech/distribution-new-aerotropolis/raw/master/app.ipa</string>
+                        <string>http://xhc.test.51yuqian.net:8080/app.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
